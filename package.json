@@ -1,6 +1,6 @@
 {
   "name": "intel-help",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Help text for IML",
   "main": "help.json",
   "publishConfig": {
