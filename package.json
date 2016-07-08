@@ -1,0 +1,17 @@
+{
+  "name": "intel-help",
+  "version": "0.0.1",
+  "description": "Help text for IML",
+  "main": "help.json",
+  "publishConfig": {
+    "registry": "https://ubit-artifactory-or.intel.com/artifactory/api/npm/iml-npm-local"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.intel.com:IML/help.git"
+  },
+  "author": "IML Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
