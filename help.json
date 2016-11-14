@@ -93,7 +93,7 @@
   "stop_file_system": "Stop the metadata and object storage targets, thus making the file system unavailable to clients.",
   "start_copytool": "Start this copytool to begin processing HSM requests.",
   "remote_diff": "This row has changed remotely. Click to set value to %(remote)s.",
-  "copyright_year": "2015",
+  "copyright_year": "2017",
   "stop_mdt": "Stop the MDT. When an MDT is stopped, the file system becomes unavailable until the MDT is started again. If an object reference is known to a client, the client can continue to access the object in the file system after the MDT is shut down, but will not be able to obtain new object references.",
   "dashboard_filter_type": "Choose to view servers or file systems.",
   "setup_worker_host_on": "Setup worker host %s",
