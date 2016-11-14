@@ -177,11 +177,11 @@
   "stop_mgt": "Stop the MGT. When an MGT is stopped, clients are unable to make new connections to file systems using the MGT. However, MDT(s) and OST(s) stay up if they have been started and can be stopped and restarted while the MGT is stopped.",
   "reboot_host": "Initiate a reboot on the host. Any HA-capable targets running on the host will be failed over to a peer. Non-HA-capable targets will be unavailable until the host has finished rebooting.",
   "make_file_system_unavailable": "Make this file system unavailable.",
-  "user_create_role": "Indicate the user's role.",
-  "user_create_username": "The name in which to identify the user.",
-  "user_create_first_name": "The user's first name.",
-  "user_create_last_name": "The user's last name.",
-  "user_create_email": "The user's email address.",
-  "user_create_password1": "The user's password.",
-  "user_create_password2": "Confirm the user's password."
+  "user_create_role": "Select your role.",
+  "user_create_username": "Enter your username.",
+  "user_create_first_name": "Enter your first name.",
+  "user_create_last_name": "Enter your last name.",
+  "user_create_email": "Enter your email address.",
+  "user_create_password1": "Enter your password.",
+  "user_create_password2": "Confirm your password."
 }
