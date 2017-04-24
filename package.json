@@ -1,9 +1,12 @@
 {
   "name": "@mfl/help",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Help text for MFL",
   "main": "help.json",
   "repository": "git@github.com:intel-hpdd/help.git",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "MFL Team",
   "license": "MIT",
   "devDependencies": {},
