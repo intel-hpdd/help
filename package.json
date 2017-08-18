@@ -1,13 +1,13 @@
 {
-  "name": "@mfl/help",
+  "name": "@iml/help",
   "version": "1.4.0",
-  "description": "Help text for MFL",
+  "description": "Help text for IML",
   "main": "help.json",
   "repository": "git@github.com:intel-hpdd/help.git",
   "publishConfig": {
     "access": "public"
   },
-  "author": "MFL Team",
+  "author": "IML Team",
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {}
