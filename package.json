@@ -3,12 +3,15 @@
   "version": "1.4.0",
   "description": "Help text for IML",
   "main": "help.json",
-  "repository": "git@github.com:intel-hpdd/help.git",
+  "repository": "git@github.com:whamcloud/help.git",
   "publishConfig": {
     "access": "public"
   },
   "author": "IML Team",
   "license": "MIT",
+  "files": [
+    "help.json"
+  ],
   "devDependencies": {},
   "dependencies": {}
 }
