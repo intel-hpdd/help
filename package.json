@@ -1,6 +1,6 @@
 {
   "name": "@iml/help",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Help text for IML",
   "main": "help.json",
   "repository": "git@github.com:whamcloud/help.git",
